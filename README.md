@@ -66,7 +66,7 @@ After activating the plugin, you can customize its settings:
 - **Required Plugin**: [CMB2](https://wordpress.org/plugins/cmb2/).
 
 
-![Config Image](https://example.com/image.jpg "Config Image")
+![Config Image](https://github.com/bugsplat404/wp-plugin-sstt/blob/main/doc-img.png "Config Image")
 
 
 ## Notes
