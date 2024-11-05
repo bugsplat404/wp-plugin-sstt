@@ -62,6 +62,10 @@ After activating the plugin, you can customize its settings:
 - **PHP Version**: Tested on PHP 8.2.
 - **Required Plugin**: [CMB2](https://wordpress.org/plugins/cmb2/).
 
+
+![Config Image](https://example.com/image.jpg "Config Image")
+
+
 ## Notes
 
 - Ensure that jQuery is loaded on your site, as it is required for the button's functionality.
