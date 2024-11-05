@@ -12,7 +12,7 @@ wp-content
         │   └── sstt-style.css
         ├── js
         │   └── sstt-script.js
-        └── readme.txt
+        └── readme.md
 ```
 
 # Another Simple Scroll To Top Plugin
