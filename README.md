@@ -2,6 +2,8 @@
 # === Simple Scroll To Top ===
 
 # Structure
+
+```
 wp-content
 └── plugins
     └── simple-scroll-to-top
@@ -11,6 +13,7 @@ wp-content
         ├── js
         │   └── sstt-script.js
         └── readme.txt
+```
 
 # Another Simple Scroll To Top Plugin
 
