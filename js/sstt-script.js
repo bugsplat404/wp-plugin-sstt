@@ -36,9 +36,11 @@ jQuery(document).ready(function($) {
 		}
 	});
 
-    scrollToTop.click(function() {
-        $('html, body').animate({ scrollTop: 0 }, 800);
-        return false;
-    });
+	// Scrolling to the top of the page by setting scrollTop to 0
+	// Scroll Speed for smooth scrolling is adjusted by sstt_vars.scroll_speed || default: 800
+	scrollToTop.click(function() {
+		$('html, body').animate({ scrollTop: 0 }, sstt_vars?.scroll_speed || 800);
+		return false;
+	});
 });
 
